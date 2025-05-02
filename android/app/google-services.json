@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509673316072",
+    "project_id": "flutter-lab10-cffdb",
+    "storage_bucket": "flutter-lab10-cffdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509673316072:android:92b4dcc78694faa064735d",
+        "android_client_info": {
+          "package_name": "com.example.lab10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcnz0fXd1iJCp17KIxEn3GP5IELIAqwEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
